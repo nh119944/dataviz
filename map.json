@@ -1,0 +1,57 @@
+[
+ {
+   "City": "Amsterdam",
+   "Lon": 4.89707,
+   "Lat": 52.377956
+ },
+ {
+   "City": "Sydney",
+   "Lon": 151.208755,
+   "Lat": -33.870453
+ },
+ {
+   "City": "Vienna",
+   "Lon": 48.240345,
+   "Lat": 16.409874
+ },
+ {
+   "City": "Stockholm",
+   "Lon": 59.334591,
+   "Lat": 18.06324
+ },
+ {
+   "City": "Copenhagen",
+   "Lon": 55.676098,
+   "Lat": 12.568337
+ },
+ {
+   "City": "Helsinki",
+   "Lon": 60.165249,
+   "Lat": 24.936056
+ },
+ {
+   "City": "Fukuoka",
+   "Lon": 33.583332,
+   "Lat": 130.399994
+ },
+ {
+   "City": "Berlin",
+   "Lon": 52.531677,
+   "Lat": 13.381777
+ },
+ {
+   "City": "Barcelona",
+   "Lon": 41.390205,
+   "Lat": 2.154007
+ },
+ {
+   "City": "Vancouver",
+   "Lon": -123.116226,
+   "Lat": 49.246292
+ },
+ {
+   "City": "Melbourne",
+   "Lon": 144.946457,
+   "Lat": -37.840935
+ }
+]
